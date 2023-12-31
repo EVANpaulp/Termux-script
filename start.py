@@ -1,5 +1,5 @@
 # Creator : paul
-# INSTAGRAM : evan_paulandi
+# Instagram : evan_paulandi
 # Github  : https://github.com/EVANpaulp
 # Jangan Di Edit Nanti Error Bro!
 Paul = ('OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO', 'OOOOOOOOOOO',
