@@ -5,7 +5,7 @@ Script spam bot wa  !
 
 ```python
 $ git clone https://github.com/EVANpaulp/Termux-script.git
-$ cd spam-wa
+$ cd Termux-script
 $ python start.py
 ```
 </details>
